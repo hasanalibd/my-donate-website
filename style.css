@@ -9,10 +9,11 @@ body{
 
 /* Top Banner Section CSS */
 .top-banner{
-    background-image: url(images/donation4.jpg);
+    background-image: url(images/bg-overlay.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 800px;
+    min-height: 700px;
+    
 }
 
 .top-banner h1{
@@ -21,7 +22,7 @@ body{
     width: 700px;
     margin: 0 auto;
     text-align: center;
-    padding-top: 200px;    
+    padding-top: 150px;    
 }
 
 .top-banner p{
@@ -284,7 +285,7 @@ body{
 	text-decoration: none;
 	font-size: 20px;
 	padding: 10px 30px;
-	margin-left: 0;
+	margin-left: 5px;
 	color: aliceblue;
 	background-color: #ff5959;
 	border-radius: 0px 10px 10px 0px;
